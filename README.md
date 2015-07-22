@@ -1,5 +1,5 @@
 # dotfiles
-saving bash profiles, plugins and the like, slowly but surely. 
+config files are (apparently) your friend
 # to install
 clone the repo into home directory & source the file upon startup in your CLI
 # Thank you

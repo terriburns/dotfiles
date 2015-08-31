@@ -13,6 +13,7 @@ alias …='cd ../../'
 alias co='checkout'
 alias st='status'
 alias yolo='git status && git add -A && git commit -m “I do what I want” && git push origin master'
+alias d='diff'
 
 #Vagrant stuff
 alias vmu='vagrant up'
